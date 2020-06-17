@@ -8,9 +8,7 @@ Requirements:
 Example:
 
 Content 
-
 ![Screenshot](Taipei101.jpg)
-
 
 Style: 
 ![Screenshot](StarryNight.jpg)
