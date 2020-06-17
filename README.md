@@ -1,0 +1,6 @@
+# NeuralArtTF
+Implementation of A Neural Algorithm of Artistic Style by Tensorflow. 
+Requirements:
+
+1)Tesnorflow 
+2)VGG 19 model 
