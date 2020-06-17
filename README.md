@@ -9,6 +9,8 @@ Example:
 
 Content 
 Taipei101.jpg 
+![alt text](http://url/to/Taipei101.png)
+
 
 Style: 
 StarryNight.jpg 
