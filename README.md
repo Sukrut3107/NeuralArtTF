@@ -9,7 +9,7 @@ Example:
 
 Content 
 Taipei101.jpg 
-![alt text](http://url/to/Taipei101.png)
+![Screenshot](Taipei101.jpg)
 
 
 Style: 
