@@ -8,15 +8,15 @@ Requirements:
 Example:
 
 Content 
-Taipei101.jpg 
+
 ![Screenshot](Taipei101.jpg)
 
 
 Style: 
-StarryNight.jpg 
+![Screenshot](StarryNight.jpg)
 
 Solution: 
-Taipei101_StarryNight.jpg 
+![Screenshot](Taipei101_StarryNight.jpg)
 
 
 
